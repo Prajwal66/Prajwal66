@@ -2,7 +2,7 @@
 - ⭐⭐⭐⭐⭐ Coder At Hackerrank 😅
 - 👀 I’m interested in App Development 
 - 🌱 I’m currently learning Java Programming and Flutter 
-- 💞️ I’m always learning Data Structure 
+- 💞️ Exploring Data Structure  
 - 📫 How to reach me https://www.linkedin.com/in/prajwal-suryawanshi-1814491b1/
 
 <!---
