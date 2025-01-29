@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prajwal66
 - ⭐⭐⭐⭐⭐ Coder At Hackerrank 😅
 - 👀 I’m interested in App Development 
-- 🌱 I’m currently learning Java Programming and Flutter 
-- 💞️ Exploring Data Structure  
+- 🌱 I’m currently learning devops 
+- 💞️ Exploring more about cloud
 - 📫 How to reach me https://www.linkedin.com/in/prajwal-suryawanshi-1814491b1/
 - 🎇Hackerank Profile - https://www.hackerrank.com/prajwalsuryawan2
 
