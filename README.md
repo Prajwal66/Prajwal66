@@ -9,4 +9,6 @@ Hi, I’m Prajwal! 👋
 💞️ Exploring new tools and expanding my tech skills every day
 
 📫 Connect with me on LinkedIn
+
+
 🎯 Check out my HackerRank profile
