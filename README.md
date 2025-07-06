@@ -1,4 +1,4 @@
-Hi, I’m Prajwal! 👋
+**Hi, I’m Prajwal! 👋**
 
 👀 Focused on building scalable, fault-tolerant systems and improving system performance  
 🌱 Continuously learning advanced DevOps, cloud infrastructure, and monitoring tools  
