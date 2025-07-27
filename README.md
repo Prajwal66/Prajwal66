@@ -21,7 +21,9 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-📫 Connect with me on ![LinkedIn] (https://www.linkedin.com/in/prajwal-suryawanshi-1814491b1/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prajwal-suryawanshi-1814491b1/)
+
 
 
 ## 📊 GitHub Stats:
