@@ -22,3 +22,10 @@
 
 
 📫 Connect with me on LinkedIn
+
+
+![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo)
+![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo)
+![GitHub contributors](https://img.shields.io/github/contributors/your-username/your-repo)
+![GitHub license](https://img.shields.io/github/license/your-username/your-repo)
+![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo)
