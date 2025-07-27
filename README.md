@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Prajwal — DevOps Engineer
 
-🔧 Passionate about automating infrastructure, streamlining CI/CD, and building scalable DevOps solutions.
-👀 Focused on building scalable, fault-tolerant systems and improving system performance  
+🔧 Passionate about automating infrastructure, streamlining CI/CD, and building scalable DevOps solutions.                                                                          👀 Focused on building scalable, fault-tolerant systems and improving system performance  
 🌱 Continuously learning advanced DevOps, cloud infrastructure, and monitoring tools  
 💞️ Enthusiastic about solving complex operational challenges through code and collaboration  
 💞️ Exploring new tools and expanding my tech skills every day
