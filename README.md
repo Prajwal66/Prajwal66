@@ -24,8 +24,4 @@
 📫 Connect with me on LinkedIn
 
 
-![GitHub stars](https://img.shields.io/github/stars/Prajwal66/Django_app_github_integration)
-![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo)
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/your-repo)
-![GitHub license](https://img.shields.io/github/license/your-username/your-repo)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=prajwal66&theme=github-compact)
