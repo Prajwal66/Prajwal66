@@ -28,6 +28,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwal66&show_icons=true&count_private=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mrnikhil07&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=prajwal66&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnikhil07&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal66&layout=compact&theme=tokyonight)
