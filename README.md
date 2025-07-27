@@ -24,4 +24,10 @@
 📫 Connect with me on LinkedIn
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=prajwal66&theme=github-compact)
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwal66&show_icons=true&count_private=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mrnikhil07&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnikhil07&layout=compact&theme=tokyonight)
